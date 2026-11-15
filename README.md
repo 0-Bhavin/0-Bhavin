@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bhavin Prajapati</h1>
-<h3 align="center">Aspiring Data Engineer | Building real-time data pipelines & AI-driven data systems</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0077B5&height=180&section=header&text=Hi%20there,%20I'm%20Bhavin%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<p align="center">
+  <a href="https://github.com/0-Bhavin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Building+real-time+data+pipelines;Kafka+%7C+Spark+%7C+Airflow+%7C+SQL;Turning+raw+events+into+insights" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/bhavin-prajapati-8b3b5a351">
@@ -11,6 +16,7 @@
   <a href="https://www.credly.com/users/bhavin-prajapati.3ec1ec95">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=0-Bhavin&style=for-the-badge&color=0077B5&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
@@ -99,17 +105,53 @@ GenAI agent automating resume parsing, job discovery, interview prep, and schedu
 
 <br/>
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0-Bhavin&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Bhavin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white"/><br/>
+<b>IBM Data Engineering<br/>Professional Certificate</b><br/>
+<sub>via Coursera</sub><br/><br/>
+<a href="https://www.credly.com/users/bhavin-prajapati.3ec1ec95"><img src="https://img.shields.io/badge/View_Credential-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/>
+<b>Query Optimization<br/>Workshop</b><br/>
+<sub>via MongoDB</sub><br/><br/>
+<a href="https://www.credly.com/users/bhavin-prajapati.3ec1ec95"><img src="https://img.shields.io/badge/View_Credential-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white"/><br/>
+<b>Data Analytics<br/>Job Simulation</b><br/>
+<sub>via Deloitte Australia (Forage)</sub><br/><br/>
+<a href="https://www.credly.com/users/bhavin-prajapati.3ec1ec95"><img src="https://img.shields.io/badge/View_Credential-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0-Bhavin&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0-Bhavin&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 <br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1e2327&height=100&section=footer" width="100%"/>
+</p>
 
 <p align="center"><i>Open to Data Engineering internships & entry-level roles — let's connect!</i></p>
