@@ -107,29 +107,38 @@ GenAI agent automating resume parsing, job discovery, interview prep, and schedu
 
 ## 📜 Certifications
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white"/><br/>
-<b>IBM Data Engineering<br/>Professional Certificate</b><br/>
-<sub>via Coursera</sub><br/><br/>
+<img src="https://img.shields.io/badge/-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+<br/><br/>
+<b>IBM Data Eng.<br/>Professional Cert.</b>
+<br/><br/>
+<sub>via Coursera</sub>
+<br/><br/>
 <a href="https://www.credly.com/users/bhavin-prajapati.3ec1ec95"><img src="https://img.shields.io/badge/View_Credential-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/>
-<b>Query Optimization<br/>Workshop</b><br/>
-<sub>via MongoDB</sub><br/><br/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<b>Query Optimization<br/>Workshop</b>
+<br/><br/>
+<sub>via MongoDB</sub>
+<br/><br/>
 <a href="https://www.credly.com/users/bhavin-prajapati.3ec1ec95"><img src="https://img.shields.io/badge/View_Credential-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/-Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white"/><br/>
-<b>Data Analytics<br/>Job Simulation</b><br/>
-<sub>via Deloitte Australia (Forage)</sub><br/><br/>
+<img src="https://img.shields.io/badge/-Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
+<br/><br/>
+<b>Data Analytics Job<br/>Simulation</b>
+<br/><br/>
+<sub>via Deloitte Australia</sub>
+<br/><br/>
 <a href="https://www.credly.com/users/bhavin-prajapati.3ec1ec95"><img src="https://img.shields.io/badge/View_Credential-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>
 
 </td>
